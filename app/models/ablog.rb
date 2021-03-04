@@ -1,0 +1,2 @@
+class Ablog < ApplicationRecord
+end
