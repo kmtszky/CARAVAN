@@ -13,7 +13,7 @@
  *= require_tree .
  *= require_self
  */
- 
+
 /* ブラウザがそれぞれ持っているCSSをリセットするための記述 */
 * {
   margin: 0;
